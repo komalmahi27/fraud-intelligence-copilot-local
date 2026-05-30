@@ -115,33 +115,16 @@ Frontend
 
 📁 Project Structure
 
-fraud_ai_system/
-├── agents/
-│   ├── validation_agent.py
-│   ├── kpi_agent.py
-│   ├── risk_agent.py
-│   └── executive_ai_agent.py
-│
-├── frontend/
-│   └── index.html
-│
-├── orchestration/
-│   └── workflow.py
-│
-├── rag/
-│   ├── knowledge_base/
-│   ├── pdf_processor.py
-│   ├── text_chunker.py
-│   ├── embeddings.py
-│   ├── vector_store.py
-│   ├── retriever.py
-│   ├── prompt_builder.py
-│   ├── copilot.py
-│   └── faiss_index/
-│
-├── app.py
-├── requirements.txt
-└── README.md
+## 📁 Project Structure
+
+| Directory/File | Description |
+|---------------|-------------|
+| agents/ | Fraud intelligence agents |
+| rag/ | RAG pipeline, embeddings, retrieval, vector search |
+| frontend/ | User interface |
+| orchestration/ | Agent workflow orchestration |
+| app.py | FastAPI application |
+| requirements.txt | Project dependencies |
 
 ⸻
 

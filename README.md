@@ -1,4 +1,5 @@
 🚀 Enterprise Fraud Intelligence Copilot
+
 AI-powered fraud analytics, RAG-based policy retrieval, and enterprise investigation copilot built with FastAPI, FAISS, and LLMs.
 
 An AI-powered fraud intelligence platform that combines multi-agent fraud analytics, Retrieval-Augmented Generation (RAG), vector search, and LLM reasoning to support fraud investigators, compliance teams, risk analysts, and financial crime professionals.
